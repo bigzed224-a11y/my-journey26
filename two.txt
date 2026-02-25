@@ -1,3 +1,6 @@
 two
+<<<<<<< HEAD
 i just added something
 I'm adding somthing again
+=======
+>>>>>>> staging
