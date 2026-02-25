@@ -1,5 +1,3 @@
 <<<<<<< HEAD
 something here
-=======
-something else here too
->>>>>>> staging
+
