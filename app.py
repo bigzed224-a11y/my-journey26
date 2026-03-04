@@ -2,8 +2,8 @@
 # print("mary is learn python")
 # print("mary wants to become a python expert")
 
-name ="big_zed"
-language = "java"
+name = input("enter my name:")
+language =input("preferred language: ")
 print("my name is" ,name)
 print(name, "is learning" ,language)
 print(name, "wants to become a",language, "expert")
