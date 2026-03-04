@@ -1,9 +1,9 @@
-# This is a comment
-# this is another comment
-# this is yet another
-trousers_quantity = 3 # number of trousers bought
-print(trousers_quantity,"trousers")
-trouser_cost = 750 # cost of one trouser
-print("each trouser costs",trouser_cost)
-total_cost = trouser_cost * trousers_quantity # total amount paid for trousers
-print("total cost of trousers",total_cost)
+# print("my name is mary")
+# print("mary is learn python")
+# print("mary wants to become a python expert")
+
+name ="big_zed"
+language = "java"
+print("my name is" ,name)
+print(name, "is learning" ,language)
+print(name, "wants to become a",language, "expert")
