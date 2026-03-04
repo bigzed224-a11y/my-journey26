@@ -1,3 +1,4 @@
-<<<<<<< HEAD
+something else here too
+New feature
 something here
 
