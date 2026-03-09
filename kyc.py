@@ -9,10 +9,17 @@ state = input("enter your state of origin: ")
 occupation = input("what is your occupation?: ")
 tribe = input("what nigeria tribe are you from?: ")
 
-print("customer profile:\t")
-print("\tFull name -",name,lastname)
-print("\tAge -",age)
-print("\tgender -",gender)
-print("\tstate of origin -",state)
-print("\t occupation -",occupation)
-print("\tTribe -",tribe)
+# print("customer profile:\t")
+# print("\tFull name -",name,lastname)
+# print("\tAge -",age)
+# print("\tgender -",gender)
+# print("\tstate of origin -",state)
+# print("\t occupation -",occupation)
+# print("\tTribe -",tribe)
+print(f"""customer profile:\n\t
+          -> Full Name: {name} {lastname}\t
+          -> age: {age}\t
+          -> gender: {gender}\t
+          -> Occupation: {occupation}\t
+          -> tribe : {tribe}
+""")
